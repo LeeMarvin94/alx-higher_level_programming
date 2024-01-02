@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 #python for learning purposes 
 
 python3 -c "$PYCODE"
