@@ -83,4 +83,4 @@ def uppercase(str):
             str_bis += 'Z'
             continue
         str_bis += i
-    print('{}'.format(str_bis)) 
+    print('{}'.format(str_bis))
