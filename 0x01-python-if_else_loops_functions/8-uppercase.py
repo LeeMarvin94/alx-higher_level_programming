@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#prints a string in uppercase followed by a new line
+# prints a string in uppercase followed by a new line
 
 def uppercase(str):
     str_bis = ''
